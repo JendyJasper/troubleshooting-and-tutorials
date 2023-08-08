@@ -148,4 +148,4 @@ How to Install and Configure AWS CLI on Linux
 How to troubleshoot github large files error
   -  https://stackoverflow.com/questions/20002557/how-to-remove-a-too-large-file-in-a-commit-when-my-branch-is-ahead-of-master-by
   -----
-    ![image](https://github.com/JendyJasper/troubleshooting-and-tutorials/assets/29708657/916b5501-bf28-46a6-a290-dd9ea4ed5bf2)
+   ![image](https://github.com/JendyJasper/troubleshooting-and-tutorials/assets/29708657/916b5501-bf28-46a6-a290-dd9ea4ed5bf2)
