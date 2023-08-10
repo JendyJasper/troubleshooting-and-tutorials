@@ -149,3 +149,10 @@ How to troubleshoot github large files error
   -  https://stackoverflow.com/questions/20002557/how-to-remove-a-too-large-file-in-a-commit-when-my-branch-is-ahead-of-master-by
   -----
    ![image](https://github.com/JendyJasper/troubleshooting-and-tutorials/assets/29708657/916b5501-bf28-46a6-a290-dd9ea4ed5bf2)
+
+AWS Architecture Icons and Drawings
+ - https://aws.amazon.com/architecture/icons/
+
+Find your dream job abroad or remote
+ - https://www.honeypot.io/en/
+ - https://vanhack.com/jobs
