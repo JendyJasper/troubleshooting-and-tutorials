@@ -156,3 +156,6 @@ AWS Architecture Icons and Drawings
 Find your dream job abroad or remote
  - https://www.honeypot.io/en/
  - https://vanhack.com/jobs
+
+How to Build AWS VPC Using Terraform – Step By Step
+ - https://javatodev.com/how-to-build-aws-vpc-using-terraform-step-by-step/
