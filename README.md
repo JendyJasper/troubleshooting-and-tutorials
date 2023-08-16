@@ -159,3 +159,7 @@ Find your dream job abroad or remote
 
 How to Build AWS VPC Using Terraform – Step By Step
  - https://javatodev.com/how-to-build-aws-vpc-using-terraform-step-by-step/
+
+How to Install Elastic Stack on Ubuntu 22.04 LTS
+ - https://www.fosstechnix.com/devops/terraform/
+ - https://www.youtube.com/watch?v=DEFA6bgv4zM
