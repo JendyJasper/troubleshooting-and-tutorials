@@ -162,3 +162,6 @@ How to Build AWS VPC Using Terraform – Step By Step
 
 How to Install Elastic Stack on Ubuntu 22.04 LTS
  - https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu-22-04
+
+How to Install Prometheus and Grafana on Ubuntu?
+ - https://antonputra.com/monitoring/install-prometheus-and-grafana-on-ubuntu/
