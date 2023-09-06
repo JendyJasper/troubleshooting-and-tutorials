@@ -168,3 +168,12 @@ How to Install Prometheus and Grafana on Ubuntu?
 
 How to disable the login password for a specific user?
  - https://askubuntu.com/questions/1102368/how-to-disable-the-login-password-for-a-specific-user
+
+Curl to return http status code along with the response
+ - https://stackoverflow.com/questions/38906626/curl-to-return-http-status-code-along-with-the-response
+
+Using an "if" conditional statement with curl in terminal?
+- https://stackoverflow.com/questions/47539461/using-an-if-statement-with-curl-in-terminal
+
+Run bash command on jenkins pipeline - multi line bash script
+- https://stackoverflow.com/questions/44330148/run-bash-command-on-jenkins-pipeline
