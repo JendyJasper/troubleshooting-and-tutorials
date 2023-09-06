@@ -165,3 +165,6 @@ How to Install Elastic Stack on Ubuntu 22.04 LTS
 
 How to Install Prometheus and Grafana on Ubuntu?
  - https://antonputra.com/monitoring/install-prometheus-and-grafana-on-ubuntu/
+
+How to disable the login password for a specific user?
+ - https://askubuntu.com/questions/1102368/how-to-disable-the-login-password-for-a-specific-user
