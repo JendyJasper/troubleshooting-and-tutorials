@@ -177,3 +177,6 @@ Using an "if" conditional statement with curl in terminal?
 
 Run bash command on jenkins pipeline - multi line bash script
 - https://stackoverflow.com/questions/44330148/run-bash-command-on-jenkins-pipeline
+
+Pass variable from Jenkinsfile pipeline to docker-compose
+ - https://stackoverflow.com/questions/75928945/pass-variable-from-jenkinsfile-pipeline-to-docker-compose
