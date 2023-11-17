@@ -180,3 +180,9 @@ Run bash command on jenkins pipeline - multi line bash script
 
 Pass variable from Jenkinsfile pipeline to docker-compose
  - https://stackoverflow.com/questions/75928945/pass-variable-from-jenkinsfile-pipeline-to-docker-compose
+
+Terraform Environment Variables – How to Use Them
+ - https://spacelift.io/blog/terraform-environment-variables
+
+Terraform Secrets: How to Manage Them (Tutorial)
+ - https://spacelift.io/blog/terraform-secrets#step-4-encrypt-files-with-kms-pgp-or-sops
